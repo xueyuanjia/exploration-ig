@@ -1,8 +1,8 @@
 # Exploration Interest Group
 
-Repository for the Exploration Interest Group.
+Repository for the Exploration Interest Group (IG).
 
-The mission of the Exploration Interest Group (IG) is to provide W3C Members with a forum to explore and discuss emerging web-related technology trends and consider how the community could collaborate to shape those trends for the benefit of web users.
+The goal of this IG is to provide a platform to help W3C (including the W3C team) investigating emerging technology trends, analyzing their impacts on the evolution of Web technologies, and proposing ways for W3C to collaborate shaping the trends for the benefit of the Web users.
 
 See also the following resources:
 
